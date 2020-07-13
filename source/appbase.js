@@ -38,7 +38,7 @@ export class AppBase {
   static CITYID = 440300;
   static CITYNAME = "深圳市";
   static CITYSET = false;
-  unicode = "znpf";
+  unicode = "xiaotaiyang";
   needauth = false;
   phone = null;
   pagetitle = null;
